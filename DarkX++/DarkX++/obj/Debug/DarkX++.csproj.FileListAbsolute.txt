@@ -1,0 +1,17 @@
+C:\Users\Apik\source\repos\DarkX++\DarkX++\bin\Debug\DarkX++.exe
+C:\Users\Apik\source\repos\DarkX++\DarkX++\bin\Debug\DarkX++.pdb
+C:\Users\Apik\source\repos\DarkX++\DarkX++\bin\Debug\FastColoredTextBox.dll
+C:\Users\Apik\source\repos\DarkX++\DarkX++\bin\Debug\MetroFramework.Design.dll
+C:\Users\Apik\source\repos\DarkX++\DarkX++\bin\Debug\MetroFramework.dll
+C:\Users\Apik\source\repos\DarkX++\DarkX++\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Apik\source\repos\DarkX++\DarkX++\bin\Debug\FastColoredTextBox.xml
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX++.csprojAssemblyReference.cache
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX__.Form1.resources
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX__.Properties.Resources.resources
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX++.csproj.GenerateResource.cache
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX++.csproj.CoreCompileInputs.cache
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX++.csproj.CopyComplete
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX++.exe
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX++.pdb
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX__.Settings.resources
+C:\Users\Apik\source\repos\DarkX++\DarkX++\obj\Debug\DarkX__.TestPad.resources
